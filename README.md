@@ -35,7 +35,7 @@ This project demonstrates how to use the **ESP32** with an **INMP441 I2S microph
 | 33        | WS      | -       | -   | -      |
 | 32        | SD      | -       | -   | -      |
 | 5         | -       | CS      | -   | -      |
-| 14        | -       | -       | -   | BTN → RES → GND |
+| 14        | -       | -       | -   | BTN → RES → 3V3 |
 | 13        | -       | -       | LED+ | -      |
 | GND       | L/R     | GND     | LED- → RES → GND | BTN-|
 | 3.3V      | VCC     | VCC     | -   | -      |
