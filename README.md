@@ -19,7 +19,7 @@ This project demonstrates how to use the **ESP32** with an **INMP441 I2S microph
 ## 🛠️ Hardware Required
 - ESP32 Development Board  
 - INMP441 I2S microphone  
-- microSD card module (SPI-based, 3.3V logic, tested with 64 GB, FAT32)  
+- microSD card module (SPI-based, 3.3V logic, FAT32)  
 - Push button (active LOW to GND)  
 - External LED + 330Ω resistor
   
@@ -37,7 +37,7 @@ This project demonstrates how to use the **ESP32** with an **INMP441 I2S microph
 | 5         | -       | CS      | -   | -      |
 | 14        | -       | -       | -   | BTN → RES → GND |
 | 13        | -       | -       | LED+ | -      |
-| GND       | L/R     | GND     | LED- → RES → GND | BTN-   |
+| GND       | L/R     | GND     | LED- → RES → GND | BTN-|
 | 3.3V      | VCC     | VCC     | -   | -      |
 
 **Other connections:**
