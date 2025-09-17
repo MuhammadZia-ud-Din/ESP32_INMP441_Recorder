@@ -19,8 +19,8 @@
 #define I2S_SD   32   // DOUT from mic
 #define I2S_SCK  26   // BCLK
 
-const char* ssid     = "SSID";
-const char* password = "Password";
+const char* ssid     = "SSID"; // Your SSID here
+const char* password = "Password"; // Your Password here
 const long gmtOffset_sec = 5 * 3600;  // UTC+5
 const int daylightOffset_sec = 0;
 
