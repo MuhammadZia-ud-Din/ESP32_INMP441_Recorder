@@ -21,7 +21,7 @@ This project demonstrates how to use the **ESP32** with an **INMP441 I2S microph
 - INMP441 I2S microphone  
 - microSD card module (SPI-based, 3.3V logic, FAT32)  
 - Push button (active LOW to GND)  
-- External LED + 330Ω resistor
+- External LED + 220Ω resistor
   
 ---
 
