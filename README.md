@@ -26,7 +26,7 @@ This project demonstrates how to use the **ESP32** with an **INMP441 I2S microph
 ---
 
 ## 🔌 Wiring Diagram
- ![Image Alt](https://github.com/MuhammadZia-ud-Din/ESP32_INMP441_Recorder/blob/main/Images/Ckt%20Design.png)
+ !Error loading File](https://github.com/MuhammadZia-ud-Din/ESP32_INMP441_Recorder/blob/main/Images/Ckt%20Design.png)
 ## 🔌 Pin Connections
 
 | ESP32 Pin | INMP441 | SD Card | LED | Button |
